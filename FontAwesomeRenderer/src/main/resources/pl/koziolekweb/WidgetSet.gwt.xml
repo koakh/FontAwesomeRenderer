@@ -6,6 +6,6 @@
 	<inherits name="com.vaadin.DefaultWidgetSet" /> 
 
 	<!-- Widget styles in public -directory -->
-	<stylesheet src="FontAwsomeRenderer/styles.css"/>
+	<stylesheet src="FontAwesomeRenderer/styles.css"/>
 
 </module>
