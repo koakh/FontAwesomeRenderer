@@ -1,0 +1,1 @@
+$wnd.pl_koziolekweb_demo_DemoWidgetSet.runAsyncCallback2('gab(1522,1,_Id);_.tc=function v8b(){EWb((!xWb&&(xWb=new JWb),xWb),this.a.d)};GCd(Oh)(2);\n//# sourceURL=pl.koziolekweb.demo.DemoWidgetSet-2.js\n')
